@@ -34,8 +34,8 @@
 
 ## 📂 Highlight Projects
 
-### 📘 Instagram Engagement Analysis *(Python, Flask, Jupyter)*  
-> Analyze how your posts are performing and determine engagement metrics.
+### 📘 Youtube Engagement Analysis *(Python, Flask, Jupyter)*  
+> Analyze how your videos and shorts are performing and determine engagement metrics.
 
 - 🔐 Data encryption  
 - 📊 Upload and analyze Instagram post data  
